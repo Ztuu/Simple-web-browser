@@ -1,0 +1,55 @@
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.manifest
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\bin\Debug\WebBrowser.application
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.SPWebBrowser.resources
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.Cache
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe.manifest
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.application
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\UserControlLibrary.FavouriteDeletion.resources
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\UserControlLibrary.FavouriteNameBox.resources
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\UserControlLibrary.FavouritesBar.resources
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\UserControlLibrary.HistoryBrowser.resources
+C:\Users\simpl\Dropbox\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\UserControlLibrary.TabUserControl.resources
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.manifest
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\bin\Debug\WebBrowser.application
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csprojAssemblyReference.cache
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\UserControlLibrary.FavouriteDeletion.resources
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\UserControlLibrary.FavouriteNameBox.resources
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\UserControlLibrary.FavouritesBar.resources
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\UserControlLibrary.HistoryBrowser.resources
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.SPWebBrowser.resources
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\UserControlLibrary.TabUserControl.resources
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe.manifest
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.application
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\Stu\Dropbox\HW Uni Course Info\HW1 Semester 1\Industrial Programming\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.manifest
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\bin\Debug\WebBrowser.application
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\obj\Debug\UserControlLibrary.FavouriteDeletion.resources
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\obj\Debug\UserControlLibrary.FavouriteNameBox.resources
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\obj\Debug\UserControlLibrary.FavouritesBar.resources
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\obj\Debug\UserControlLibrary.HistoryBrowser.resources
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.SPWebBrowser.resources
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\obj\Debug\UserControlLibrary.TabUserControl.resources
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.Cache
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe.manifest
+C:\Users\simpl\Documents\Ind Prog\CW1\Simple-web-browser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.application
